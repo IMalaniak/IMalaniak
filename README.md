@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning GoLang
+- 💬 Ask me about microservices with Node.js
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imalaniak/)
+
+<span>
+  <img height="180rem" 
+       src="https://github-readme-stats.vercel.app/api?username=IMalaniak&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr"
+       alt="Github stats" />
+  <img height="180rem" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMalaniak&layout=compact&theme=codeSTACKr" 
+       alt="Top languages" />
+</span>
+
 <!--
 **IMalaniak/IMalaniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
