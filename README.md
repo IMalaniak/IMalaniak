@@ -1,7 +1,8 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
+
 ### Hi there 👋
 
-- 🌱 I’m currently learning GoLang
-- 💬 Ask me about microservices with Node.js
+- 💬 Ask me about microservices with Node.js and TypeScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imalaniak/)
 
 <span>
